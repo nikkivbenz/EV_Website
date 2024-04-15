@@ -1,0 +1,6 @@
+- simple bootstrap website 
+- contain affiliate links
+- mobile friendly
+- pour energy into calculators, SEO and affiliate marketing.
+- introduce a scraping background + database balance between the two 
+
