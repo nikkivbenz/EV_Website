@@ -1,0 +1,12 @@
+body {
+    font-family: 'Arial', sans-serif; 
+}
+
+.hero {
+    background-color: #f0f5f8; /* Adjust color if needed */
+    padding: 80px 0;
+}
+
+.navbar-nav .nav-item:last-child {
+    margin-right: 30px; /* Adjust the spacing as needed */
+}
