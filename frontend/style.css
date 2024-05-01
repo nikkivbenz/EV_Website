@@ -1,5 +1,6 @@
 body {
     font-family: 'Arial', sans-serif; 
+    font-size: 1rem;
 }
 
 .hero {
@@ -10,3 +11,18 @@ body {
 .navbar-nav .nav-item:last-child {
     margin-right: 30px; /* Adjust the spacing as needed */
 }
+
+.dropdown-menu {
+    background-color: #f8f9fa;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #f0f0f0;
+  }
+
+  @media (max-width: 768px) { 
+    .article-with-spacing {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  }
